@@ -50,7 +50,7 @@ The drone system comprises several key components:
 
 **Proposed Organ Transport Drone**
 
-<img src="Organ-Transport-and-Cold-Chain-Supply-Drone/image.png" alt="Organ Transport Drone" width="400"/>
+<img src="image.png" alt="Organ Transport Drone" width="400"/>
 
 ## Results
 
